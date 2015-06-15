@@ -1,0 +1,13 @@
+PODS:
+  - GoogleMaps (1.10.0)
+  - KDropDownMultipleSelection (1.0.1)
+
+DEPENDENCIES:
+  - GoogleMaps
+  - KDropDownMultipleSelection (~> 1.0.1)
+
+SPEC CHECKSUMS:
+  GoogleMaps: 8eafd25b658a6401ca45a185700716c4a9e9edf2
+  KDropDownMultipleSelection: 898c2795ab6daf85c2a51c9adc109094f103a8f9
+
+COCOAPODS: 0.36.3
